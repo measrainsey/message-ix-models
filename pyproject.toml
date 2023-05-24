@@ -42,6 +42,7 @@ dependencies = [
   "pycountry",
   "PyYAML",
   "sdmx1 >= 2.8.0",
+  "pyxlsb >= 1.0.10"
 ]
 
 [project.urls]
